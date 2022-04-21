@@ -1,7 +1,5 @@
 # Projeto Transação To Do List
 
----
-
 ### ReactJS & Typescript
 
 Projeto realizado em aulas online, trilha de ensino Ignite pelo [Rockseat](https://www.rocketseat.com.br).
